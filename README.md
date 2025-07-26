@@ -22,6 +22,9 @@ From kaggels :- https://www.kaggle.com/datasets/uciml/sms-spam-collection-datase
   ## 3. Launch the app:
         streamlit run app.py
 
+
+  ## Live Streamlit App
+  [Email_spam_predictor](https://email-sms-spamclassifier.streamlit.app/)
   
   
 # 📸 Screenshots
